@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">star_test</string>
+    <string name="白羊座">白羊座，本来有好多特点，但是我懒得写了</string>
+    <string name="金牛座">金牛座，本来有好多特点，但是我懒得写了</string>
+    <string name="双子座">双子座，本来有好多特点，但是我懒得写了</string>
+    <string name="巨蟹座">巨蟹座，本来有好多特点，但是我懒得写了</string>
+    <string name="狮子座">狮子座，本来有好多特点，但是我懒得写了</string>
+    <string name="处女座">处女座，本来有好多特点，但是我懒得写了</string>
+    <string name="天枰座">天枰座，本来有好多特点，但是我懒得写了</string>
+    <string name="天蝎座">天蝎座，本来有好多特点，但是我懒得写了</string>
+    <string name="射手座">射手座，本来有好多特点，但是我懒得写了</string>
+    <string name="摩羯座">摩羯座，本来有好多特点，但是我懒得写了</string>
+    <string name="水瓶座">水瓶座，本来有好多特点，但是我懒得写了</string>
+    <string name="双鱼座">双鱼座，本来有好多特点，但是我懒得写了</string>
+</resources>
